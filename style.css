@@ -1,11 +1,13 @@
-
-body {
-    root {
+ root {
     --text-color: #a2ccff;
     --card-front-color: #ff9c63;
     --card-back-color: #1a1b1b;
     
 }
+
+
+body {
+   
 
 
     background: url('img/bg-desktop.webp');
@@ -44,7 +46,13 @@ body {
 
 .cartao__conteudo__resposta p{
     color: var(--card-back-color);
-    font-weight: 700;
+    font-weight: 700;root {
+    --text-color: #a2ccff;
+    --card-front-color: #ff9c63;
+    --card-back-color: #1a1b1b;
+    
+}
+
 }
 
 
