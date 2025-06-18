@@ -1,7 +1,7 @@
 :root {
-    --text-color: #DBE4EF;
-    --card-front-color: #144480;
-    --card-back-color: #00F4BF;
+    --text-color: #a2ccff;
+    --card-front-color: #ff9c63;
+    --card-back-color: #1a1b1b;
     
 }
 
@@ -48,10 +48,6 @@ body {
     color: var(--card-back-color);
     font-weight: 700;
 }
-
-
-
-
 
 
 
